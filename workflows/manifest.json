@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Example.json",
+    "path": "default/workflows/Example.json",
+    "cover_url": "https://cdn.jsdelivr.net/gh/Ginolazy/ComfyPanel-defaults@main/workflows/Example-cover.webp"
+  },
+  {
+    "name": "GPT_Image2_(All_in_one)_BizyAir.json",
+    "path": "default/workflows/GPT_Image2_(All_in_one)_BizyAir.json",
+    "cover_url": "https://cdn.jsdelivr.net/gh/Ginolazy/ComfyPanel-defaults@main/workflows/GPT_Image2_(All_in_one)_BizyAir-cover.webp"
+  },
+  {
+    "name": "NanoBanana_(All_in_one)_BizyAir.json",
+    "path": "default/workflows/NanoBanana_(All_in_one)_BizyAir.json",
+    "cover_url": "https://cdn.jsdelivr.net/gh/Ginolazy/ComfyPanel-defaults@main/workflows/NanoBanana_(All_in_one)_BizyAir-cover.webp"
+  }
+]
