@@ -2,19 +2,19 @@
     "bizyair": [
         {
             "name": "Flux.2 Inpaint",
-            "id": "56109"
+            "id": "57207"
         },
         {
             "name": "Dual-Image Editing (Flux.2_klein)",
-            "id": "56122"
+            "id": "57216"
         },
         {
             "name": "HD Upscale (SeedVR2)",
-            "id": "56117"
+            "id": "57214"
         },
         {
             "name": "HD Upscaler Pro (TTP + SeedVR2)",
-            "id": "56118"
+            "id": "57215"
         }
     ],
     "runninghub": [
