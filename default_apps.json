@@ -99,6 +99,11 @@
             "idEn": "2089349080157102082"
         },
         {
+            "name": "Cutout & Segmentation",
+            "idZh": "2105895609780760577",
+            "idEn": "2105896058197934082"
+        },
+        {
             "name": "Face Swap Fast (Flux.1_Redux)",
             "idZh": "2081378953088036866",
             "idEn": "2081406313998282754"
@@ -134,7 +139,7 @@
             "idEn": "2082055262478802945"
         },
         {
-            "name": "MiniMax H3 (Multimedia Reference)",
+            "name": "MiniMax H3 Video (Multimedia Reference)",
             "idZh": "2105131357008650241",
             "idEn": "2105131520603525121"
         },
