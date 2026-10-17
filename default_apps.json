@@ -19,6 +19,66 @@
     ],
     "runninghub": [
         {
+            "name": "2D Design to Culture Wall (Qwen)",
+            "idZh": "2090008362598617090",
+            "idEn": "2089632581032718338"
+        },
+        {
+            "name": "360Panorama",
+            "idZh": "2073455314866892801",
+            "idEn": "2077243903429926914"
+        },
+        {
+            "name": "360Panorama V2",
+            "idZh": "2077932829194940417",
+            "idEn": "2077933460735766530"
+        },
+        {
+            "name": "3D Character Sheet",
+            "idZh": "2091413006990266369",
+            "idEn": "2091414532883701761"
+        },
+        {
+            "name": "Consistent Product Shots",
+            "idZh": "2088860347410243586",
+            "idEn": "2088860534795243522"
+        },
+        {
+            "name": "Cutout & Segmentation",
+            "idZh": "2105895609780760577",
+            "idEn": "2105896058197934082"
+        },
+        {
+            "name": "Face Swap Fast (Flux.1_Redux)",
+            "idZh": "2081378953088036866",
+            "idEn": "2081406313998282754"
+        },
+        {
+            "name": "Face Swap HQ (Flux.1_Pulid)",
+            "idZh": "2081394677139464193",
+            "idEn": "2081406310739308545"
+        },
+        {
+            "name": "FireRed-Image-Edit 1.1",
+            "idZh": "2091876627423776770",
+            "idEn": "2091866928259350529"
+        },
+        {
+            "name": "Flux.2 Klein (Enhanced)",
+            "idZh": "2092090565985923073",
+            "idEn": "2111304698300018689"
+        },
+        {
+            "name": "Flux.3 Klein (Enhanced)",
+            "idZh": "2111291499165085698",
+            "idEn": "2111291613158133762"
+        },
+        {
+            "name": "Generative Fill (Flux.1_Inpaint / Outpaint)",
+            "idZh": "2092072748205035522",
+            "idEn": "2108927544414601217"
+        },
+        {
             "name": "GPT Image 2 (Channel)",
             "idZh": "2070868537354317826",
             "idEn": "2077243903857745922"
@@ -49,6 +109,21 @@
             "idEn": "2098013115513688065"
         },
         {
+            "name": "HD Upscaler (SeedVR2)",
+            "idZh": "2081797676273852418",
+            "idEn": "2081798083257004034"
+        },
+        {
+            "name": "HD Upscaler Pro (TTP + SeedVR2)",
+            "idZh": "2082145255993995266",
+            "idEn": "2082055262478802945"
+        },
+        {
+            "name": "MiniMax H3 Video (Multimedia Reference)",
+            "idZh": "2105131357008650241",
+            "idEn": "2105131520603525121"
+        },
+        {
             "name": "NanoBanana (Channel)",
             "idZh": "2070762861495934977",
             "idEn": "2077244013190942721"
@@ -72,81 +147,6 @@
             "name": "NanoBanana Pro (Channel / Official)",
             "idZh": "2073352722279124994",
             "idEn": "2077244018963456001"
-        },
-        {
-            "name": "360Panorama",
-            "idZh": "2073455314866892801",
-            "idEn": "2077243903429926914"
-        },
-        {
-            "name": "360Panorama V2",
-            "idZh": "2077932829194940417",
-            "idEn": "2077933460735766530"
-        },
-        {
-            "name": "2D Design to Culture Wall (Qwen)",
-            "idZh": "2090008362598617090",
-            "idEn": "2089632581032718338"
-        },
-        {
-            "name": "3D Character Sheet",
-            "idZh": "2091413006990266369",
-            "idEn": "2091414532883701761"
-        },
-        {
-            "name": "Consistent Product Shots",
-            "idZh": "2088860347410243586",
-            "idEn": "2089349080157102082"
-        },
-        {
-            "name": "Cutout & Segmentation",
-            "idZh": "2105895609780760577",
-            "idEn": "2105896058197934082"
-        },
-        {
-            "name": "Face Swap Fast (Flux.1_Redux)",
-            "idZh": "2081378953088036866",
-            "idEn": "2081406313998282754"
-        },
-        {
-            "name": "Face Swap HQ (Flux.1_Pulid)",
-            "idZh": "2081394677139464193",
-            "idEn": "2081406310739308545"
-        },
-        {
-            "name": "FireRed-Image-Edit 1.1",
-            "idZh": "2091876627423776770",
-            "idEn": "2091866928259350529"
-        },
-        {
-            "name": "Flux.3 Klein (Enhanced)",
-            "idZh": "2111291499165085698",
-            "idEn": "2111291613158133762"
-        },
-        {
-            "name": "Generative Fill (Flux.1_Inpaint / Outpaint)",
-            "idZh": "2092072748205035522",
-            "idEn": "2108927544414601217"
-        },
-        {
-            "name": "Generative Fill (Flux.2_Inpaint / Outpaint)",
-            "idZh": "2092090565985923073",
-            "idEn": "2092088442187497474"
-        },
-        {
-            "name": "HD Upscaler (SeedVR2)",
-            "idZh": "2081797676273852418",
-            "idEn": "2081798083257004034"
-        },
-        {
-            "name": "HD Upscaler Pro (TTP + SeedVR2)",
-            "idZh": "2082145255993995266",
-            "idEn": "2082055262478802945"
-        },
-        {
-            "name": "MiniMax H3 Video (Multimedia Reference)",
-            "idZh": "2105131357008650241",
-            "idEn": "2105131520603525121"
         },
         {
             "name": "Qwen Image 2.1",
